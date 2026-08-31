@@ -15,7 +15,7 @@ I enjoy exploring systems, reverse engineering, vulnerability research, and buil
 ## 🌍 Languages:
 - **Turkish** —  Native
 - **English** —  Fluent
-- **German** — Conversational
+- **German** — Working Proficiency
 ---
 
-<p align="left">If you have a question in mind, you can send me an email ✉️.</p>
+<p align="left">If you have a question in mind, just send me an email ✉️.</p>
