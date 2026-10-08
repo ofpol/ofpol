@@ -2,20 +2,22 @@
 
 # Hi, I'm O.F.P. 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Enjoy+exploring+whilst+exploiting+systems;Love+old+legacy+software&hardware)](https://zenonai.net)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&width=700&center=true&lines=Enjoy+exploring+whilst+exploiting+vulnerable+systems;Love+old+legacy+software+%26+hardware+dual)](https://zenonai.net)
 
 </div>
-<br>
+
 ## 🛠️ Tech Stack
 [![Skills](https://skillicons.dev/icons?i=cpp,c,python,js,ts,bash,arch,docker,cloudflare)](https://skillicons.dev)
-<br>
+
 ---
+
 ## 🌍 Languages:
-- **Turkish** —  Native
-- **English** —  Fluent
-- **German** — Working Proficiency
+> - `Turkish —  Native`
+> - `English —  Fluent`
+> - `German — Working Proficiency`
+
 ---
-<br>
+
 ## :mailbox_with_mail: Contact
 <div align="left">
 <a href="https://zenonai.net"><img src="https://img.shields.io/badge/zenonai.net-4285F4?style=for-the-badge" /></a>
