@@ -18,6 +18,14 @@
 
 ---
 
+## :school_satchel: Support & Donation
+
+<img src=".assets/btc.svg" width="25" height="20" style="vertical-align:middle"> : `bc1qlmy9uhk8wvxxxx3sdy8teucuy0h3dj4rgvzljn` <br>
+<img src=".assets/eth-2.svg" width="25" height="20" style="vertical-align:middle">
+: `0x79c0d7543255aaeb796b43a622dd2da8f9770880`
+
+--- 
+
 ## :mailbox_with_mail: Contact
 <div align="left">
 <a href="https://zenonai.net"><img src="https://img.shields.io/badge/zenonai.net-4285F4?style=for-the-badge" /></a>
