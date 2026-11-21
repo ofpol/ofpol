@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm O.F.P. 👋
+<h1>Hi, I'm O.F.P <img src=".assets/hi.gif" width=32 height=32 alt="Greetings" /></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&width=700&center=true&lines=Enjoy+exploring+whilst+exploiting+vulnerable+systems;Love+old+legacy+software+%26+hardware+dual)](https://zenonai.net)
 
@@ -28,7 +28,7 @@
 
 ## :mailbox_with_mail: Contact
 <div align="left">
-<a href="https://zenonai.net"><img src="https://img.shields.io/badge/zenonai.net-4285F4?style=for-the-badge" /></a>
-<a href="mailto:xashe107@gmail.com"><img src="https://img.shields.io/badge/Mail-Reach%20Me-red?style=for-the-badge&logo=gmail" /></a>
-<a href="https://discordapp.com/users/1553516844386885794"><img src="https://img.shields.io/badge/Discord-xashe-5865F2?style=for-the-badge&logo=discord" /></a>
+<a href="https://zenonai.net"><img src="https://img.shields.io/badge/zenonai.net-100000?style=for-the-badge"/></a>
+<a href="mailto:ofpol@proton.me"><img src="https://img.shields.io/badge/Mail-160f33?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://discordapp.com/users/1553516844386885794"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
